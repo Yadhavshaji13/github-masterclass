@@ -1,0 +1,67 @@
+      
+      
+      >Git Hub<
+         ---
+
+
+
+version control system (vsc)
+
+reomte repository- remote loc used to link between local workspace
+
+local workspace- personal workspace of developrs
+
+git comands
+------------
+
+      >git clone-to get a copy of remote repository to local workspc
+
+      >git pull- to get changes in remote repository to local workspace
+
+      >git push- to get changes from local workspace to remote repository
+
+to add changes in local workspace to staging area
+
+
+      >git add -A 
+      
+      
+ to add all staged areas to local workspace
+
+
+      >git commit -m "message"
+
+
+[staging area(changes from local workspace are added into staging area)]
+
+
+
+to save user to git
+-------------------
+
+      >git config --global user.name "name"   ---->username add
+
+      >git config --global user.email "mailid"  ---->add email
+
+
+to initialise git repository
+---------------------
+
+
+      >git init
+
+flags
+------
+M-modified
+A-staged
+U-untracked
+
+
+
+
+to check untracked commands 
+
+
+      >git status
+
+
